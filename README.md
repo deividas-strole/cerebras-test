@@ -1,4 +1,4 @@
-Java code to test Cerebras API writen by Deividas Strole.
+Java code to test Cerebras API written by Deividas Strole.
 
 ## 📫 Connect
 
